@@ -1,4 +1,4 @@
-# O``rientações gerais e Regras
+# Orientações gerais e Regras
 
 ## Orientações:
    - Elabore um passo a passo de resolução de cada uma das suas atividades e análises, facilitando a apresentação dos resultados ao hackathon.  
