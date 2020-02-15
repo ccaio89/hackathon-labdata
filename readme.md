@@ -9,7 +9,7 @@
    - Times devem ter até 4 alunos.
 
 ## Agenda para apresentação 2º dia - LABDATA CHALLENGE:
-   - horários: 
+   - Horários: 
         - Início: 8h30 hrs
         - Finalização dos trabalhos: 14h45 hrs
         - Apresentações: 15 hrs
@@ -20,15 +20,43 @@
             - 7 minutos para apresentação. Pode usar PDF, PPT, notebook na databricks ou outra ferramenta que facilite a apresentação.
             - 3 minutos para Perguntas e Respostas da banca para o grupo.
    
-   - Sugestão do que apresentar, pelo menos estes tópicos:
-        - Introdução: qual o entendimento do problema que o grupo teve? Qual o contexto?
-        - Abordagem: qual a abordagem adotada pelo grupo, grandes etapas do processo, linguagem usada, ambiente, tecnologia, libraries, etc.
-        - Insights: quais os insights que o grupo gerou em cada etapa (análise exploratória de dados, modelagem, recomendação final).
-        - Recomendação final: qual o produto que o grupo construiu?
+   - Sugestão para conteúdo da apresentação:
+        - (obrigatório) Criar um nome para o grupo, colocando esse nome no primeiro slide e no nome do arquivo da apresentação.
+        - (obrigatório) Adicionar no primeiro slide da apresentação o nome de todos os membros do grupo com os respectivos emails.
+        - Sugestão de Tópicos:  
+            - Introdução: qual o entendimento do problema que o grupo teve? Qual o contexto?
+            - Abordagem: qual a abordagem adotada pelo grupo, grandes etapas do processo, linguagem usada, ambiente, tecnologia, libraries, etc.
+            - Insights: quais os insights que o grupo gerou em cada etapa (análise exploratória de dados, modelagem, recomendação final).
+            - Recomendação final: qual o produto que o grupo construiu?
    
    - Enviar apresentações e repositórios git (caso houver) para os emails:
         - Samuel samuel.o.schmidt@gmail.com
         - Gustavo gpilatti@gmail.com
         
+   - Membros da banca avaliadora:
+        - iFood (Gustavo e Eloi) vão avaliar todos os critérios de avaliação.
+        - FIA (Profa. Alessandra, Prof. Canton, Prof. Samuel)
+        - Convidados - Executivos (Fernando e Lysbeth)			
+        
+   - CARACTERISTICAS DE UM PROFISSIONAL DE DADOS DO IFOOD:
+        - É autônomo, proficiente e ágil, identificando e analisando problemas e oportunidades relevantes ao negócio, de forma proativa;
+        - É ambidestro, consegue realizar tarefas técnicas e entender os modelos de negócio;
+        - É crítico sobre os modelos de negócio, demandas e tem foco no “so what”
+        - É capaz de planejar/quantificar esforço e tempo necessários para suas atividades, assim como gerir expectativas com o gestor direto e área cliente
+        - Comunica-se de forma clara, simples e assertiva, independente do público, com foco na tomada de decisão, engajando os interlocutores
+        - Constrói relação de confiança com o time que atende
+        - Tem visão Lean, otimizando processos do dia-a-dia da área cliente, impulsionados por dados
+        - Possui case relevante de impacto no negócio através de análises e /ou data products.
+        - Manipulação e análise de dados utilizando SQL, Python ou R;
+        - Data Visualization: habilidade de criar visualizações adequadas em termos de estética e complexidade, que sejam efetivas para o objetivo proposto. Tableau / Excel / Power Point
+        - Construção de ETL’s para criação automática de datasets (SQL, Python, Spark, Git e Airflow)
+      
+   - VAGAS IFOOD:
+	    - https://boards.greenhouse.io/ifood
+	    - GROWTH E AI > DATA
+	    - vagas para Data Analysis / Engenharia de Dados / AI
+	    
+	 
+	      
 ### A equipe Labdata deseja boas atividades a todas as equipes. Se divirtam e aprendam o máximo que puderem, colaborando e ensinando também !
 
