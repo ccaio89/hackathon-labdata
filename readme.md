@@ -18,6 +18,9 @@
         - Um total de 10 minutos:
             - 7 minutos para apresentação. Pode usar PDF, PPT, notebook na databricks ou outra ferramenta que facilite a apresentação.
             - 3 minutos para Perguntas e Respostas da banca para o grupo.
-
+   - Enviar apresentações e repositórios git (caso houver) para os emails:
+        - Samuel samuel.o.schmidt@gmail.com
+        - Gustavo gpilatti@gmail.com
+        
 ### A equipe Labdata deseja boas atividades a todas as equipes. Se divirtam e aprendam o máximo que puderem, colaborando e ensinando também !
 
