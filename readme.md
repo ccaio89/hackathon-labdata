@@ -56,7 +56,20 @@
 	    - https://boards.greenhouse.io/ifood
 	    - GROWTH E AI > DATA
 	    - vagas para Data Analysis / Engenharia de Dados / AI
-	    
+
+   - Ordem dos grupos:
+           - Grupo1	30k
+           - Grupo2	os fias da mãe
+           - Grupo3	Hungry 4 Data
+           - Grupo4	DATA DEALERS
+           - Grupo5	The Data Crunchers
+           - Grupo6	RMA
+           - Grupo7	rafs
+           - Grupo8	data_monsters
+           - Grupo9	Grupo Cox
+           - Grupo10	Equipe_UAI.IO
+           - Grupo11	data_angels
+           - Grupo12	  
 	 
 	      
 ### A equipe Labdata deseja boas atividades a todas as equipes. Se divirtam e aprendam o máximo que puderem, colaborando e ensinando também !
