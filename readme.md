@@ -28,6 +28,7 @@
             - Abordagem: qual a abordagem adotada pelo grupo, grandes etapas do processo, linguagem usada, ambiente, tecnologia, libraries, etc.
             - Insights: quais os insights que o grupo gerou em cada etapa (análise exploratória de dados, modelagem, recomendação final).
             - Recomendação final: qual o produto que o grupo construiu?
+            - Aprendizado da equipe e feedbacks.
    
    - Enviar apresentações e repositórios git (caso houver) para os emails:
         - Samuel samuel.o.schmidt@gmail.com
