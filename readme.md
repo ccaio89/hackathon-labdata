@@ -14,12 +14,18 @@
         - Finalização dos trabalhos: 14h45 hrs
         - Apresentações: 15 hrs
         - Premiações: 18 hrs
+        
    - Tempos para apresentação de cada grupo:
         - Um total de 10 minutos:
             - 7 minutos para apresentação. Pode usar PDF, PPT, notebook na databricks ou outra ferramenta que facilite a apresentação.
             - 3 minutos para Perguntas e Respostas da banca para o grupo.
-   - Sugestão do que apresentar:
-        - 
+   
+   - Sugestão do que apresentar, pelo menos estes tópicos:
+        - Introdução: qual o entendimento do problema que o grupo teve? Qual o contexto?
+        - Abordagem: qual a abordagem adotada pelo grupo, grandes etapas do processo, linguagem usada, ambiente, tecnologia, libraries, etc.
+        - Insights: quais os insights que o grupo gerou em cada etapa (análise exploratória de dados, modelagem, recomendação final).
+        - Recomendação final: qual o produto que o grupo construiu?
+   
    - Enviar apresentações e repositórios git (caso houver) para os emails:
         - Samuel samuel.o.schmidt@gmail.com
         - Gustavo gpilatti@gmail.com
