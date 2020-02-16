@@ -70,7 +70,7 @@
         - Grupo10	Equipe_UAI.IO
         - Grupo11	data_angels  
 
-    - Grupos premiados:
+   - Grupos premiados:
         - Primeiro Lugar ("os fias da mãe")
         - Segundo Lugar ("RMA")
         - Terceiro Lugar ("Equipe_UAI.IO")      
