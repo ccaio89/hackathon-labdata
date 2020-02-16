@@ -76,6 +76,6 @@
         - Terceiro Lugar ("Equipe_UAI.IO")      
 
 ### Parabéns a todos os grupos pelo esforço, análises realizadas e trabalhos apresentados. Foi show Pessoal ! ####
-### Obrigado a equipe do iFood pela parceria e case e aos membros da banco convidados. ###	    
+### Obrigado a equipe do iFood pela parceria e pelo desafio, e aos membros da banca convidados. ###	    
 ### A equipe Labdata deseja boas atividades a todas as equipes. Se divirtam e aprendam o máximo que puderem, colaborando e ensinando também !
 
